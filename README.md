@@ -3,7 +3,7 @@
 
 - 🔭 Şu anda **.Net Core RESTfull API, WPF ve WinForm ve MSSql** üzerinde çalışıyorum. 
 
-- 🌱 Şu anda **Flutter, React, PostgreSql ** öğreniyorum. 
+- 🌱 Şu anda **Flutter, React, PostgreSql** öğreniyorum. 
 
 - 📫 Bana **g.kursad@hotmail.com** mail adresimden ulaşabilirsiniz. 
 
