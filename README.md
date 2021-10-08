@@ -1,11 +1,11 @@
 <h1 align="center">Merhaba 👋, ben Gençay Kürşad ALTIPARMAK</h1>
-<h3 align="center">Kayseri/TÜRKİYE'den tutkulu bir arka uç geliştirici</h3>
+<h3 align="center">Kayseri'de yaşayan .Net geliştiricisim. İşini severek yapan ve yaptıpım işten oldukça keyif alan birisiyim. </h3>
 
-- 🔭 Şu anda **.Net Core** üzerinde çalışıyorum
+- 🔭 Şu anda **.Net Core RESTfull API, WPF ve WinForm** üzerinde çalışıyorum. 
 
-- 🌱 Şu anda öğreniyorum **Flutter, React**
+- 🌱 Şu anda **Flutter, React** öğreniyorum. 
 
-- 📫 Bana nasıl ulaşırım **g.kursad@hotmail.com**
+- 📫 Bana **g.kursad@hotmail.com** mail adresimden ulaşabilirsiniz. 
 
 <h3 align="left">Benimle bağlantı kurun:</h3>
 <p align="left">
@@ -16,7 +16,7 @@
 <a href="https://instagram.com/gkursad" target="boş"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" alt="gkursad" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Diller ve Araçlar:</h3>
+<h3 align="left">Kullandıpım Diller ve Araçlar:</h3>
 <p align="left"> 
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cs/" hedef ="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40 "/> </a> 
