@@ -1,8 +1,6 @@
 <h1 align="center">Merhaba 👋, ben Gençay Kürşad ALTIPARMAK</h1>
 <h3 align="center">Kayseri/TÜRKİYE'den tutkulu bir arka uç geliştirici</h3>
 
-<p align="left"> < a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gkursad" alt=" gkursad" /></a> </p>
-
 - 🔭 Şu anda **.Net Core** üzerinde çalışıyorum
 
 - 🌱 Şu anda öğreniyorum **Flutter, React**
