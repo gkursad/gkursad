@@ -5,7 +5,7 @@
 
 - 🌱 Şu anda öğreniyorum **Flutter, React**
 
-- 📫 Bana nasıl ulaşırım **g .kursad@hotmail.com**
+- 📫 Bana nasıl ulaşırım **g.kursad@hotmail.com**
 
 <h3 align="left">Benimle bağlantı kurun:</h3>
 <p align="left">
