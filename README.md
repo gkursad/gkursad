@@ -1,7 +1,7 @@
 <h1 align="center">Merhaba 👋, ben Gençay Kürşad ALTIPARMAK</h1>
 <h3 align="center">Kayseri'de yaşayan .Net geliştiricisim. İşini severek yapan ve yaptığım işten oldukça keyif alan birisiyim. </h3>
 
-- 🔭 Şu anda **.Net Core RESTful API, WPF ve WinForm ve MSSql** üzerinde çalışıyorum. 
+- 🔭 Şu anda **.Net Core RESTful API, WPF, WinForm ve MSSql** üzerinde çalışıyorum. 
 
 - 🌱 Şu anda **Flutter, React, PostgreSql** öğreniyorum. 
 
