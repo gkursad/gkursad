@@ -37,4 +37,4 @@
 ![Profile views](https://gpvc.arturio.dev/gkursad)  
 
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/gkursad/gkursad/blob/main/devcard.svg" width="400" alt="gkursad's Dev Card"/></a>
+<a href="https://app.daily.dev/gkursad"><img src="https://github.com/gkursad/gkursad/blob/main/devcard.svg" width="400" alt="gkursad's Dev Card"/></a>
