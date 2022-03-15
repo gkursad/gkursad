@@ -6,10 +6,10 @@
 - 🌱 Şu anda **Flutter, React, PostgreSql** öğreniyorum. 
 
 - 📫 Bana **g.kursad@hotmail.com** mail adresimden ulaşabilirsiniz. 
-
----
-<a href="https://app.daily.dev/gkursad"><img src="https://github.com/gkursad/gkursad/blob/main/devcard.svg" width="400" alt="gkursad's Dev Card" align="left/></a>
-
+<p>
+  <a href="https://app.daily.dev/gkursad"><img src="https://github.com/gkursad/gkursad/blob/main/devcard.svg" width="400" alt="gkursad's Dev Card" align="left"/></a>
+</p>
+    
 <h3 align="left">Benimle bağlantı kurun:</h3>
 <p align="left">
 <a href="https://dev.to/gkursad" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gkursad" height="30" width="40" /></a >
