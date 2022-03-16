@@ -6,7 +6,7 @@
   <h3 align="center">.Net sevdalısı yazılımcı. İşini severek yapan ve yaptığım işten oldukça keyif alan birisiyim. </h3>    
   <p align="center">
     <a href="https://twitter.com/gkursad" target="boş"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/twitter.svg" alt="gkursad" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in /gkursad" target="boş"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gkursad" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/gkursad" target="boş"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gkursad" height="30" width="40" /></a>
   </p>
 
   ---
@@ -15,12 +15,13 @@
 
 <h3>Platforms:</h3>
 <p align='center'>
- <img src='https://gkursad.com/icons/android.svg' alt='android' width="50" heigth="50">  
- <img src='https://gkursad.com/icons/apple.svg' alt='android' width="50" heigth="50">
- <img src='https://gkursad.com/icons/windows.svg' alt='android' width="50" heigth="50">  
+ <img src='/icons/android.svg' alt='android' width="50" heigth="50">  
+ <img src='/icons/apple.svg' alt='apple' width="50" heigth="50">
+ <img src='/icons/windows.svg' alt='windows' width="50" heigth="50">
 </p>
-<!--<h3>Programming Languages:</h3>-->
-  <p align="left"> 
+
+<h3>Programming Languages:</h3>
+  <p align="center"> 
     <a href="https://www.w3schools.com/cs/" hedef ="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40 "/> </a>
     <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
     <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
