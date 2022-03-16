@@ -53,7 +53,7 @@
     </p>
 </p>
 
-## 📝 Blogs
+## 📝 Website & Blogs
 
 - Personal website: https://www.gkursad.com/
 - Personal blog: https://www.kodnotlari.com/
