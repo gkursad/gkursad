@@ -3,13 +3,13 @@
 	<style>
         .letters { fill: #2E2E2E; }
 
-        @media (prefers-color-scheme: dark light) {
+        @media (prefers-color-scheme: dark) {
             html[data-color-mode="auto"] .letters {
                 fill: #ffffff;
             }
         }
 
-        html[data-color-mode="dark light"] .letters, {
+        html[data-color-mode="dark"] .letters, {
             fill: #ffffff;
         }
     </style>
