@@ -6,12 +6,10 @@
   <h3 align="center">İşini severek yapan ve yaptığı işten oldukça keyif alan birisiyim. @kodnotlari</h3>    
   <p align="center">
     <a href="https://twitter.com/gkursad" target="_blank">
-      <img src="/icons/twitter.svg#gh-dark-mode-only" alt="gkursad" height="40" width="40" />
-      <img src="/icons-black/twitter.svg#gh-light-mode-only" alt="gkursad" height="40" width="40" />
+      <img src="/icons/twitter.svg" alt="gkursad" height="40" width="40" />      
     </a>
     <a href="https://linkedin.com/in/gkursad" target="_blank">
-      <img src="/icons/linkedin.svg#gh-dark-mode-only" alt="gkursad" height="40" width="40" />
-      <img src="/icons-black/linkedin.svg#gh-light-mode-only" alt="gkursad" height="40" width="40" />
+      <img src="/icons/linkedin.svg" alt="gkursad" height="40" width="40" />
     </a>  
     <!--<a href="https://www.gkursad.com/" target="_blank">
       <img align="center" src="/icons/linkedin.svg#gh-dark-mode-only" alt="gkursad" height="30" width="40" />
