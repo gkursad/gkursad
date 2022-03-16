@@ -18,7 +18,7 @@
       <img align="center" src="/icons-black/linkedin.svg#gh-light-mode-only" alt="gkursad" height="30" width="40" />
     </a>-->
   </p>
-
+  
   ---
 
   ## Platforms
