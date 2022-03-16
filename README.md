@@ -15,9 +15,9 @@
 
 <h3>Platforms:</h3>
 <p align='center'>
- <img src='/icons/android.svg' alt='android' width="50" heigth="50">  
- <img src='/icons/apple.svg' alt='apple' width="50" heigth="50">
- <img src='/icons/windows.svg' alt='windows' width="50" heigth="50">
+ <img src='/icons/android.svg#gh-dark-mode-only' alt='android' width="50" heigth="50">  
+ <img src='/icons/apple.svg#gh-dark-mode-only' alt='apple' width="50" heigth="50">
+ <img src='/icons/windows.svg#gh-dark-mode-only' alt='windows' width="50" heigth="50">
 </p>
 
 <h3>Programming Languages:</h3>
