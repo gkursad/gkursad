@@ -11,14 +11,25 @@
 
   ---
 
-  <h3 align="left">Profession:</h3>
+## 🔧 Technologies & Tools
+
+<h3>Platforms:</h3>
+<p align='center'>
+ <img src='https://gkursad.com/icons/android.svg' alt='android' width="50" heigth="50">  
+ <img src='https://gkursad.com/icons/apple.svg' alt='android' width="50" heigth="50">
+ <img src='https://gkursad.com/icons/windows.svg' alt='android' width="50" heigth="50">  
+</p>
+<!--<h3>Programming Languages:</h3>-->
   <p align="left"> 
     <a href="https://www.w3schools.com/cs/" hedef ="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40 "/> </a>
     <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
     <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
     <a href="https:// www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt ="mssql" width="40" height="40"/> </a> 
   </p>
-
+<h3>Programming Tools:</h3>
+  <p align="left"> 
+  
+  </p>
   ---
 
   <h3 align="left"></h3>
@@ -41,6 +52,10 @@
     </p>
 </p>
 
+## 📝 Blogs
+
+- Personal website: https://www.gkursad.com/
+- Personal blog: https://www.kodnotlari.com/
 
 ## &#x1f4c8; GitHub Stats
 
