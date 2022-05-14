@@ -2,8 +2,11 @@
 <a href="https://app.daily.dev/gkursad" target="_blank"><img src="https://github.com/gkursad/gkursad/blob/main/devcard.svg" width="400" alt="gkursad's Dev Card" align="right"/></a>
 </p>
 <p>
-<h1 align="center">Gençay Kürşad ALTIPARMAK</h1>
-<h3 align="center">İşini severek yapan ve yaptığı işten oldukça keyif alan birisiyim. @kodnotlari</h3>    
+<h1 align="center">
+  Gençay Kürşad ALTIPARMAK 
+  <br/> 
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=poppins&center=true&vCenter=true&lines=Computer+Engineer;.NET+Developer"> 
+</h1>
 <p align="center">
 <a href="https://twitter.com/gkursad" target="_blank">
   <img src="/icons/twitter.svg" alt="gkursad" height="40" width="40" />      
@@ -21,12 +24,12 @@
 
 ## Platforms
 <p align='left'>
+<img src='/icons/windows.svg#gh-dark-mode-only' alt='windows' width="50" heigth="50"> 
+<img src='/icons-black/windows.svg#gh-light-mode-only' alt='windows' width="50" heigth="50">
 <img src='/icons/android.svg#gh-dark-mode-only' alt='android' width="50" heigth="50">  
 <img src='/icons-black/android.svg#gh-light-mode-only' alt='android' width="50" heigth="50"> 
 <img src='/icons/apple.svg#gh-dark-mode-only' alt='apple' width="50" heigth="50">
 <img src='/icons-black/apple.svg#gh-light-mode-only' alt='apple' width="50" heigth="50">
-<img src='/icons/windows.svg#gh-dark-mode-only' alt='windows' width="50" heigth="50"> 
-<img src='/icons-black/windows.svg#gh-light-mode-only' alt='windows' width="50" heigth="50">
 </p>
 
 ## IDE's
