@@ -1,5 +1,7 @@
 <p>
-<a href="https://app.daily.dev/gkursad" target="_blank"><img src="https://github.com/gkursad/gkursad/blob/main/devcard.svg" target="_blank" width="400" alt="gkursad's Dev Card" align="right"/></a>
+  <a href="https://app.daily.dev/gkursad" target="_blank">
+    <img src="https://github.com/gkursad/gkursad/blob/main/devcard.svg" width="400" alt="gkursad's Dev Card" align="right"/>
+  </a>
 </p>
 <p>
 <h1 align="center">
