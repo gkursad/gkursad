@@ -7,7 +7,7 @@
 <h1 align="center">
   Gençay Kürşad ALTIPARMAK 
   <br/> 
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=poppins&center=true&vCenter=true&lines=Computer+Engineer;.NET+Developer"> 
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=poppins&center=true&vCenter=true&lines=Computer+Engineer;.NET+Developer;Mobile+Developer"> 
 </h1>
 <p align="center">
 <a href="https://twitter.com/gkursad" target="_blank">
