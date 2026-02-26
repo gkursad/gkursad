@@ -1,114 +1,62 @@
-<p>
-  <a href="https://app.daily.dev/gkursad" target="_blank">
-    <img src="https://github.com/gkursad/gkursad/blob/main/devcard.svg" width="400" alt="gkursad's Dev Card" align="right"/>
-  </a>
-</p>
-<p>
-<h1 align="center">
-  Gençay Kürşad ALTIPARMAK 
-  <br/> 
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=poppins&center=true&vCenter=true&lines=Computer+Engineer;.NET+Developer;Mobile+Developer"> 
-</h1>
 <p align="center">
-<a href="https://twitter.com/gkursad" target="_blank">
-  <img src="/icons/twitter.svg" alt="gkursad" height="40" width="40" />      
-</a>
-<a href="https://linkedin.com/in/gkursad" target="_blank">
-  <img src="/icons/linkedin.svg" alt="gkursad" height="40" width="40" />
-</a>  
-<!--<a href="https://www.gkursad.com/" target="_blank">
-  <img align="center" src="/icons/linkedin.svg#gh-dark-mode-only" alt="gkursad" height="30" width="40" />
-  <img align="center" src="/icons-black/linkedin.svg#gh-light-mode-only" alt="gkursad" height="30" width="40" />
-</a>-->
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=00cba9&height=200&section=header&text=Gençay%20Kürşad%20ALTIPARMAK&fontSize=40&animation=fadeIn&fontAlignY=45" />
+</p>
+
+<p align="center">
+  <a href="https://app.daily.dev/gkursad"><img src="https://github.com/gkursad/gkursad/blob/main/devcard.svg" width="380" alt="Dev Card" align="right"/></a>
+  
+  <h1 align="left">👨‍💻 Team Lead & Software Architect</h1>
+  <p align="left">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=2bbc8a&width=500&lines=Software+Team+Lead;Computer+Engineer;Systems+Architect;PostgreSQL+Admin;Full-Stack+.NET+%26+Mobile" alt="Typing SVG" />
+  </p>
+</p>
+
+<p align="left">
+  <a href="https://linkedin.com/in/gkursad" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
+  <a href="https://twitter.com/gkursad" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://www.kodnotlari.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-%23FFCA28.svg?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Blog"></a>
 </p>
 
 ---
 
-## Platforms
-<p align='left'>
-<img src='/icons/windows.svg#gh-dark-mode-only' alt='windows' width="50" heigth="50"> 
-<img src='/icons-black/windows.svg#gh-light-mode-only' alt='windows' width="50" heigth="50">
-<img src='/icons/android.svg#gh-dark-mode-only' alt='android' width="50" heigth="50">  
-<img src='/icons-black/android.svg#gh-light-mode-only' alt='android' width="50" heigth="50"> 
-<img src='/icons/apple.svg#gh-dark-mode-only' alt='apple' width="50" heigth="50">
-<img src='/icons-black/apple.svg#gh-light-mode-only' alt='apple' width="50" heigth="50">
-</p>
+### 👨‍💻 Professional Profile
+Geniş bir sektörel yelpazede (**Araç Kiralama, Kurumsal Sistemler, Network Yönetimi**) yüksek performanslı altyapılar kurgulayan bir **Software Team Lead**'im. Teknik liderlik, ekip mentörlüğü ve sürdürülebilir yazılım mimarileri oluşturma konularında tutkuluyum.
 
-## IDE's
-<p align="left"> 
-<img src='/icons/visualstudio.svg#gh-dark-mode-only' alt='visualstudio' width="50" heigth="50"> 
-<img src='/icons-black/visualstudio.svg#gh-light-mode-only' alt='visualstudio' width="50" heigth="50"> 
-<img src='/icons/visualstudiocode.svg#gh-dark-mode-only' alt='visualstudiocode' width="50" heigth="50"> 
-<img src='/icons-black/visualstudiocode.svg#gh-light-mode-only' alt='visualstudiocode' width="50" heigth="50"> 
-<img src='/icons/androidstudio.svg#gh-dark-mode-only' alt='androidstudio' width="50" heigth="50"> 
-<img src='/icons-black/androidstudio.svg#gh-light-mode-only' alt='androidstudio' width="50" heigth="50"> 
-<img src='/icons/xcode.svg#gh-dark-mode-only' alt='xcode' width="50" heigth="50"> 
-<img src='/icons-black/xcode.svg#gh-light-mode-only' alt='xcode' width="50" heigth="50"> 
-</p>
+- 👥 **Leadership:** Çevik metodolojiler ile ekip yönetimi, kod kalitesi standartlarının (DoR/DoD) belirlenmesi ve teknik mentörlük.
+- 🏗️ **Architectural Vision:** Clean Architecture, CQRS ve Modular Monolith yaklaşımlarıyla ölçeklenebilir sistem tasarımı.
+- ⚙️ **Infrastructure & DB:** PostgreSQL Performance Tuning, Network Management ve yüksek erişilebilirlikli (High-Availability) sistem kurguları.
+- 🛠️ **Engineering Excellence:** CI/CD otomasyonları, `.editorconfig` standartları ve blameless post-mortem kültürüyle mühendislik disiplini.
 
-## Technologies 
+---
 
-###### Desktop
-<p align="left"> 
-<img src='/icons/csharp.svg#gh-dark-mode-only' alt='csharp' width="50" heigth="50"> 
-<img src='/icons-black/csharp.svg#gh-light-mode-only' alt='csharp' width="50" heigth="50"> 
-<img src='/icons/microsoftsqlserver.svg#gh-dark-mode-only' alt='microsoftsqlserver' width="50" heigth="50"> 
-<img src='/icons-black/microsoftsqlserver.svg#gh-light-mode-only' alt='microsoftsqlserver' width="50" heigth="50"> 
-</p>
+### 🏗️ Technical Ecosystem
 
-###### Web
-<p align="left"> 
-<img src='/icons/dotnet.svg#gh-dark-mode-only' alt='dotnet' width="50" heigth="50"> 
-<img src='/icons-black/dotnet.svg#gh-light-mode-only' alt='dotnet' width="50" heigth="50"> 
-<img src='/icons/microsoftsqlserver.svg#gh-dark-mode-only' alt='microsoftsqlserver' width="50" heigth="50"> 
-<img src='/icons-black/microsoftsqlserver.svg#gh-light-mode-only' alt='microsoftsqlserver' width="50" heigth="50"> 
-<img src='/icons/postgresql.svg#gh-dark-mode-only' alt='postgresql' width="50" heigth="50"> 
-<img src='/icons-black/postgresql.svg#gh-light-mode-only' alt='postgresql' width="50" heigth="50"> 
-<img src='/icons/html5.svg#gh-dark-mode-only' alt='html5' width="50" heigth="50"> 
-<img src='/icons-black/html5.svg#gh-light-mode-only' alt='html5' width="50" heigth="50"> 
-<img src='/icons/css3.svg#gh-dark-mode-only' alt='css3' width="50" heigth="50"> 
-<img src='/icons-black/css3.svg#gh-light-mode-only' alt='css3' width="50" heigth="50"> 
-<img src='/icons/bootstrap.svg#gh-dark-mode-only' alt='bootstrap' width="50" heigth="50"> 
-<img src='/icons-black/bootstrap.svg#gh-light-mode-only' alt='bootstrap' width="50" heigth="50"> 
-<img src='/icons/javascript.svg#gh-dark-mode-only' alt='bootstrap' width="50" heigth="50"> 
-<img src='/icons-black/javascript.svg#gh-light-mode-only' alt='bootstrap' width="50" heigth="50"> 
-</p>
+| Category | Skills & Stack |
+| :--- | :--- |
+| **Backend Core** | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat) |
+| **Mobile & Web** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) |
+| **Architectures** | `Clean Architecture` `CQRS` `Onion Architecture` `Microservices` `DDD` |
+| **DevOps & Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
 
-###### Mobile
+---
+
+### 🌟 Key Areas of Interest
+- 📈 **System Performance:** Veritabanı darboğazlarını giderme ve yüksek yük altındaki sistemlerin stabilizasyonu.
+- 🎓 **Research:** Hibrit Derin Öğrenme Teknikleri üzerine akademik tez çalışmaları.
+- 🤝 **Team Culture:** Blameless post-mortem ve şeffaf mühendislik kültürü oluşturma.
+- 🏍️ **Out of Office:** Chopper tutkusu ve uzun yollar. 🏍️
+
+---
+
+### 🌐 Let's Connect
+Ekip yönetimi, teknik mimari veya sistem optimizasyonları üzerine deneyim paylaşmayı severim.
+
 <p align="left">
-<img src='/icons/flutter.svg#gh-dark-mode-only' alt='flutter' width="50" heigth="50"> 
-<img src='/icons-black/flutter.svg#gh-light-mode-only' alt='flutter' width="50" heigth="50"> 
-<img src='/icons/xamarin.svg#gh-dark-mode-only' alt='xamarin' width="50" heigth="50"> 
-<img src='/icons-black/xamarin.svg#gh-light-mode-only' alt='xamarin' width="50" heigth="50">
-<img src='/icons/sqlite.svg#gh-dark-mode-only' alt='sqlite' width="50" heigth="50"> 
-<img src='/icons-black/sqlite.svg#gh-light-mode-only' alt='sqlite' width="50" heigth="50">
-<img src='/icons/firebase.svg#gh-dark-mode-only' alt='firebase' width="50" heigth="50"> 
-<img src='/icons-black/firebase.svg#gh-light-mode-only' alt='firebase' width="50" heigth="50"> 
+  <img src="https://komarev.com/ghpvc/?username=gkursad&color=2bbc8a&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
-###### Tools
-<p align="left">
-<img src='/icons/postman.svg#gh-dark-mode-only' alt='postman' width="50" heigth="50"> 
-<img src='/icons-black/postman.svg#gh-light-mode-only' alt='postman' width="50" heigth="50"> 
-<img src='/icons/redis.svg#gh-dark-mode-only' alt='redis' width="50" heigth="50"> 
-<img src='/icons-black/redis.svg#gh-light-mode-only' alt='redis' width="50" heigth="50"> 
-<img src='/icons/git.svg#gh-dark-mode-only' alt='git' width="50" heigth="50"> 
-<img src='/icons-black/git.svg#gh-light-mode-only' alt='git' width="50" heigth="50"> 
-<img src='/icons/selenium.svg#gh-dark-mode-only' alt='selenium' width="50" heigth="50"> 
-<img src='/icons-black/selenium.svg#gh-light-mode-only' alt='selenium' width="50" heigth="50"> 
-</p>
-
-## Website & Blogs
-
-- Personal website: https://www.gkursad.com/
-- Personal blog: https://www.kodnotlari.com/
-
-## GitHub Stats
-
-<a href="https://github.com/gkursad/gkursad">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=gkursad&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="gkursad's GitHub Stats" />
-</a>
-<a href="https://github.com/gkursad/gkursad">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkursad&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
+---
+<p align="center">
+  <i>"Clean code always looks like it was written by someone who cares." — Robert C. Martin</i>
 </p>
