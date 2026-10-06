@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220">
+  <style>
+    .fade { opacity: 0; animation: fadeIn 1.2s ease-out forwards; }
+    .d2 { animation-delay: 0.4s; }
+    @keyframes fadeIn { to { opacity: 1; } }
+  </style>
+  <rect width="900" height="220" rx="16" fill="#1a1a1a"/>
+  <text class="fade" x="450" y="105" text-anchor="middle"
+        font-family="Segoe UI, Helvetica, Arial, sans-serif"
+        font-size="42" font-weight="700" fill="#ffffff">Gençay Kürşad Altıparmak</text>
+  <rect class="fade d2" x="375" y="125" width="150" height="3" rx="1.5" fill="#00cba9"/>
+  <text class="fade d2" x="450" y="165" text-anchor="middle"
+        font-family="Segoe UI, Helvetica, Arial, sans-serif"
+        font-size="20" fill="#00cba9">Head of Software Development &amp; Technical Support</text>
+</svg>
