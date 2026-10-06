@@ -77,8 +77,7 @@ Bugün **Nilvera**'da yazılım geliştirme ve teknik destek ekiplerinin başın
 
 ## 🎓 Eğitim ve Sertifikalar
 
-- **Yüksek Lisans (devam ediyor):** Bilgisayar Mühendisliği, Erciyes Üniversitesi
-  Tez: *Hibrit Derin Öğrenme Teknikleri Kullanarak Nesne Boyutu Hesaplama*
+- **Yüksek Lisans (devam ediyor):** Bilgisayar Mühendisliği, Erciyes Üniversitesi · Tez: *Hibrit Derin Öğrenme Teknikleri Kullanarak Nesne Boyutu Hesaplama*
 - **Lisans:** Bilgisayar Mühendisliği, Erciyes Üniversitesi
 - **Sertifikalar:** Cisco Networking Academy (CCNA modülleri, CyberOps Associate, Cybersecurity Essentials ve diğerleri)
 
